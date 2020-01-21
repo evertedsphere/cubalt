@@ -1,0 +1,2 @@
+[build]
+rustflags = ["-Ctarget-feature=+sse,+sse2,+sse4.1,+avx,+avx2,+bmi,+bmi2"]

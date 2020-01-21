@@ -1,0 +1,4 @@
+[workspace]
+members = ["cubalt-driver", "cubalt", "cubalt-derive"]
+
+[profile.release]
